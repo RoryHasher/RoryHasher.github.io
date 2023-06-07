@@ -1,6 +1,38 @@
 #title{
     text-align: center;
 }
+
 body{
-    background-color:rgb(220,159,75);
+    background-color:rgb(220, 159, 75);
+}
+
+.information{
+    background-color:rgb(230, 185, 123);
+}
+
+#photo{
+    border:6px ridge rgb(125, 86, 14);
+    margin-left:350px;
+
+
+
+}
+
+.header{
+    color:rgb(255, 255, 255);
+    font-family:monospace;
+}
+
+#link{
+    margin-left:445px;
+    color:rgb(23, 50, 238);
+}
+
+#table{
+    border:6px dashed rgb(125, 86, 14);
+    padding:10px;
+}
+
+#table-data{
+    font-family:tahoma;
 }
